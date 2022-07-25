@@ -16,5 +16,6 @@ https://github.com/NangTuong/Tech-Blog
 Made By: Bradley Nguyen
 
 ## Screen Shots
-![screenshot](./images/Screenshot%20(9).png)
-![screenshot](./images/Screenshot%20(10).png)
+![screenshot](./public/assets/images/Screenshot%20(16).png)
+![screenshot](./public/assets/images/Screenshot%20(17).png)
+![screenshot](./public/assets/images/Screenshot%20(18).png)
